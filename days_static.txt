@@ -1,0 +1,196 @@
+Sunday
+
+Total clients: 45
+Total profit: 421 EUR
+Average bill: 9.36 EUR
+Men: 39 (86.67%)
+Women: 6 (13.33%)
+Home customers: 20 (44.44%)
+New customers: 25 (55.56%)
+Slovak: 40 (88.89%)
+Foreigner: 5 (11.11%)
+
+At 17:00 were 4 customers
+At 18:00 were 5 customers
+At 19:00 were 4 customers
+At 20:00 were 15 customers
+At 21:00 were 11 customers
+At 22:00 were 6 customers
+At 23:00 were 0 customers
+
+
+Monday
+
+Total clients: 62
+Total profit: 394 EUR
+Average bill: 6.35 EUR
+Men: 43 (69.35%)
+Women: 19 (30.65%)
+Home customers: 18 (29.03%)
+New customers: 44 (70.97%)
+Slovak: 53 (85.48%)
+Foreigner: 9 (14.52%)
+
+At 11:00 were 0 customers
+At 12:00 were 1 customers
+At 13:00 were 1 customers
+At 14:00 were 3 customers
+At 15:00 were 4 customers
+At 16:00 were 3 customers
+At 17:00 were 4 customers
+At 18:00 were 5 customers
+At 19:00 were 2 customers
+At 20:00 were 13 customers
+At 21:00 were 21 customers
+At 22:00 were 5 customers
+At 23:00 were 0 customers
+
+
+Thuesday
+Total clients: 72
+Total profit: 678 EUR
+Average bill: 9.42 EUR
+Men: 61 (84.72%)
+Women: 11 (15.28%)
+Home customers: 35 (48.61%)
+New customers: 37 (51.39%)
+Slovak: 63 (87.5%)
+Foreigner: 9 (12.5%)
+
+At 11:00 were 5 customers
+At 12:00 were 4 customers
+At 13:00 were 4 customers
+At 14:00 were 5 customers
+At 15:00 were 6 customers
+At 16:00 were 7 customers
+At 17:00 were 3 customers
+At 18:00 were 8 customers
+At 19:00 were 8 customers
+At 20:00 were 8 customers
+At 21:00 were 10 customers
+At 22:00 were 4 customers
+At 23:00 were 0 customers
+
+
+Wednesday
+Total clients: 64
+Total profit: 520 EUR
+Average bill: 8.12 EUR
+Men: 51 (79.69%)
+Women: 13 (20.31%)
+Home customers: 24 (37.5%)
+New customers: 40 (62.5%)
+Slovak: 59 (92.19%)
+Foreigner: 5 (7.81%)
+
+At 11:00 were 0 customers
+At 12:00 were 0 customers
+At 13:00 were 1 customers
+At 14:00 were 3 customers
+At 15:00 were 2 customers
+At 16:00 were 11 customers
+At 17:00 were 12 customers
+At 18:00 were 7 customers
+At 19:00 were 6 customers
+At 20:00 were 8 customers
+At 21:00 were 5 customers
+At 22:00 were 8 customers
+At 23:00 were 1 customers
+
+
+Thursday
+Total clients: 53
+Total profit: 473 EUR
+Average bill: 8.92 EUR
+Men: 42 (79.25%)
+Women: 11 (20.75%)
+Home customers: 26 (49.06%)
+New customers: 27 (50.94%)
+Slovak: 44 (83.02%)
+Foreigner: 9 (16.98%)
+
+At 11:00 were 0 customers
+At 12:00 were 0 customers
+At 13:00 were 1 customers
+At 14:00 were 0 customers
+At 15:00 were 1 customers
+At 16:00 were 8 customers
+At 17:00 were 9 customers
+At 18:00 were 4 customers
+At 19:00 were 10 customers
+At 20:00 were 2 customers
+At 21:00 were 7 customers
+At 22:00 were 10 customers
+At 23:00 were 1 customers
+
+
+
+Friday
+Total clients: 76
+Total profit: 578 EUR
+Average bill: 7.61 EUR
+Men: 56 (73.68%)
+Women: 20 (26.32%)
+Home customers: 21 (27.63%)
+New customers: 55 (72.37%)
+Slovak: 41 (53.95%)
+Foreigner: 35 (46.05%)
+
+At 11:00 were 0 customers
+At 12:00 were 3 customers
+At 13:00 were 8 customers
+At 14:00 were 5 customers
+At 15:00 were 5 customers
+At 16:00 were 4 customers
+At 17:00 were 1 customers
+At 18:00 were 9 customers
+At 19:00 were 9 customers
+At 20:00 were 4 customers
+At 21:00 were 20 customers
+At 22:00 were 8 customers
+At 23:00 were 0 customers
+
+
+Saturday
+Total clients: 66
+Total profit: 342 EUR
+Average bill: 5.18 EUR
+Men: 51 (77.27%)
+Women: 15 (22.73%)
+Home customers: 20 (30.3%)
+New customers: 46 (69.7%)
+Slovak: 36 (54.55%)
+Foreigner: 30 (45.45%)
+
+At 15:00 were 0 customers
+At 16:00 were 0 customers
+At 17:00 were 5 customers
+At 18:00 were 9 customers
+At 19:00 were 3 customers
+At 20:00 were 9 customers
+At 21:00 were 24 customers
+At 22:00 were 14 customers
+At 23:00 were 2 customers
+
+
+Sunday
+Total clients: 29
+Total profit: 210 EUR
+Average bill: 7.24 EUR
+Men: 19 (65.52%)
+Women: 10 (34.48%)
+Home customers: 12 (41.38%)
+New customers: 17 (58.62%)
+Slovak: 21 (72.41%)
+Foreigner: 8 (27.59%)
+
+At 15:00 were 0 customers
+At 16:00 were 0 customers
+At 17:00 were 6 customers
+At 18:00 were 1 customers
+At 19:00 were 8 customers
+At 20:00 were 1 customers
+At 21:00 were 6 customers
+At 22:00 were 7 customers
+At 23:00 were 0 customers
+
